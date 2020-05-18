@@ -1,0 +1,7 @@
+<!--pages/first/first.wxml-->
+<text class="myclass1">{{show_value}}</text>
+
+<view class="myclass2" bindtap="onSecondCilck">打开页面Second</view>
+
+<view class="tipv">页面First</view>
+

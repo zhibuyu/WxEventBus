@@ -1,0 +1,7 @@
+<!--pages/second/second.wxml-->
+<input class="myipclass1" placeholder="输入内容" bindinput="txtinput"/>
+
+<view class="myclass2" bindtap="SendTxtClick">将输入值传递给页面First</view>
+
+
+<view class="tipv">页面Second</view>

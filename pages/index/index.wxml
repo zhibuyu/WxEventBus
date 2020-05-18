@@ -1,0 +1,4 @@
+<!--pages/index/index.wxml-->
+<view class="myclass2" bindtap="onFirstCilck">打开页面First</view>
+
+<view class="tipv">首页</view>

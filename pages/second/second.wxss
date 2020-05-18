@@ -1,0 +1,21 @@
+/* pages/second/second.wxss */
+
+.myipclass1{
+    width: 100%;
+    padding: 20rpx;
+    margin: 30rpx
+}
+.myclass2{
+    text-align: center;
+    padding: 20rpx;
+    margin: 30rpx;
+    margin-right: 30rpx;
+    background: coral;
+}
+.tipv{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 30rpx;
+  text-align: center;
+}
