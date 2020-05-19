@@ -1,12 +1,15 @@
 # WxEventBus
+## 小程序（微信小程序、百度小程序、支付宝小程序）跨页门面传值
 
+### 项目介绍
+WxEventBus是模仿EventBus的一个事件发布-订阅方案，它解决了小程序跨页面后传值的问题，可以避免原有跨页面通讯方案带来的诸多不便。
 
-- **项目结构**
+### 项目结构
 <img src="https://github.com/zhibuyu/WxEventBus/blob/master/show_pics/architecture.png?raw=true" width="280"/> 
 
 </br>
 
-- **使用**
+### 使用
 在需要接受其他页面（页面First）消息的所在页的 onLoad 生命周期中订阅 “fistPageMessage” 事件，
  
 `     /**
