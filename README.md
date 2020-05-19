@@ -5,7 +5,7 @@
 WxEventBus是模仿EventBus的一个事件发布-订阅方案，它解决了小程序跨页面后传值的问题，可以避免原有跨页面通讯方案带来的诸多不便。
 
 ### 项目结构
-<img src="https://github.com/zhibuyu/WxEventBus/blob/master/show_pics/architecture.jpg?raw=true" width="280"/> 
+![项目结构](https://img-blog.csdnimg.cn/20200519153506728.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTAxMjM2NDM=,size_16,color_FFFFFF,t_70)
 
 </br>
 
@@ -60,3 +60,5 @@ WxEventBus是模仿EventBus的一个事件发布-订阅方案，它解决了小�
     event.remove("fistPageMessage", this)
   },
 ```
+**[博客地址](https://blog.csdn.net/u010123643/article/details/106215894s)**：[https://blog.csdn.net/u010123643/article/details/106215894](https://blog.csdn.net/u010123643/article/details/106215894)
+
