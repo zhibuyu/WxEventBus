@@ -21,7 +21,7 @@ Page({
     event.on("fistPageMessage", this, this.ReceiveMessage)
   },
   /**
-     * 接收订阅回调的方
+     * 接收订阅回调的方法
      * @param evntdata 接收更新数据
      * @constructor
      */
